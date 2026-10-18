@@ -41,4 +41,4 @@ Then open `http://localhost:8080/` or `/it/`. The website works without JavaScri
 
 Have a workflow this could help with? [Open a project suggestion](https://github.com/eliagentili/specchio-studio-site/issues) or [explore Elia Gentili’s work](https://github.com/eliagentili). Please keep personal information and private recordings out of public issues.
 
-Website source and original assets: **GPL-3.0-or-later**, see [LICENSE](LICENSE). This website license does not constitute clearance of rights for a future app release.
+Website source and original assets: **GPL-3.0-or-later**, see [LICENSE](LICENSE). This website license does not constitute clearance of rights for current or future app releases.
